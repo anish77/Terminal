@@ -1,5 +1,7 @@
 # Terminal Cheatsheet for Mac (Basics)
 
+~ LIBRO: https://www.learnenough.com/command-line-tutorial/manipulating_files
+
 This cheatsheet is available in many languages. Since the translation rely on volunteers, the content between the available languages may vary. Choose one below:
 
 - [English Version](#english-version)
